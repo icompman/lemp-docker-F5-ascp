@@ -1,5 +1,5 @@
 
-# lemp-docker-starter-kit
+# lemp-docker-F5-ascp
 
 A starter kit to run LEMP stack (Linux, nginx, MySQL and PHP) with docker.
 
@@ -43,5 +43,4 @@ Please feel free to edit `docker-compose.yml` file per your demand.
 
 - Any OS with Docker Engine and docker-compose installed
 =======
-# lemp-docker-F5-ascp
 
